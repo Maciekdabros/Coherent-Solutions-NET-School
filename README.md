@@ -1,1 +1,1 @@
-"# Coherent-Solutions-NET-School" 
+# Coherent-Solutions-NET-School
